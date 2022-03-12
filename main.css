@@ -179,7 +179,7 @@ body
   position: relative;
   align-content: center;
   justify-content: center;
-  width: 12%;
+  width: auto;
   height: auto;
   margin-top: 3%;
   margin-left: 5%;
